@@ -1,4 +1,9 @@
 # Ordering food
+### ToDo list:
+
+
+ - [**Preview** ](https://andreas-just.github.io/js_ordering-food/)
+ - [**PullRequest**](https://github.com/mate-academy/js_ordering-food/pull/20/)
 
 Here are 10 items of food: 
 
